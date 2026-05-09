@@ -2,7 +2,7 @@
 
 <h2>👨🏽‍💻Cybersecurity Projects:</h2>
 
-  - [Secure Multi Network Web Application](https://github.com/joshmadakor1/Algorithms-Practice)
+Secure Multi Network Web Application
 
 <h2>📄Certifications</h2>
 
