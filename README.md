@@ -2,7 +2,7 @@
 
 <h2>👨🏽‍💻Cybersecurity Projects:</h2>
 
-Secure Multi Network Web Application
+Automated SOC Lab: Detection, Response and Case Management with Wazuh, n8n and TheHive
 
 <h2>📄Certifications</h2>
 
